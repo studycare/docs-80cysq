@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ya89x9.indocuan-vip.sbs/sitemap.xml
